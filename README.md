@@ -6,6 +6,8 @@
 
 <h3 align="center">A Full Stack Events App</h3>
 
+</div>
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Built on Next.js 14, the events application stands as a comprehensive, full-stack platform for managing events. It serves as a hub, spotlighting diverse events taking place globally. Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event or even initiate and manage your own events.
@@ -46,5 +48,3 @@ Built on Next.js 14, the events application stands as a comprehensive, full-stac
 👉 **Event Orders:** Comprehensive order management system, providing a clear overview of all event-related transactions.
 
 👉 **Search Orders:** Quick and efficient search functionality for orders, facilitating easy tracking and management.
-
-</div>
